@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn{
+    color: white;
+    background-color: blue;
+    cursor: pointer
+ 
+
+}
+
+.btn:hover {
+    background-color: blueviolet
+}
